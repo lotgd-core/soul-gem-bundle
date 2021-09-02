@@ -1,6 +1,6 @@
 {
     "name": "lotgd-core/soul-gem-bundle",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Soul Gem event for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
