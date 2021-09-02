@@ -21,7 +21,7 @@ final class LotgdSoulGemBundle extends Bundle implements LotgdBundleInterface
 {
     use LotgdBundleTrait;
 
-    public const TRANSLATION_DOMAIN = 'lodge_soul_gem';
+    public const TRANSLATION_DOMAIN = 'lotgd_soul_gem';
 
     /**
      * {@inheritDoc}
